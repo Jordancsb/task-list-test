@@ -9,6 +9,7 @@ Objetivo: criação de uma aplicação web com backend em Java e frontend em Rea
 - JPA/Hibernate
 - MySql
 - Docker
+- [MonoRepo](https://dev.to/kgunnerud/our-experience-monorepo-with-java-maven-and-github-actions-2aho)⌛
 
 ![Doc1](https://github.com/user-attachments/assets/32bb8d0a-912a-4180-bcb4-77f37da96900)
 
@@ -78,7 +79,7 @@ Serviços do backend todos são startados via:
 mvn spring-boot:run
 ```
 
-Já o front end [task-management-front]() são iniciados via:
+Já o front end [task-management-front](https://github.com/Jordancsb/front-task-test) são iniciados via:
 
 ```
 yarn & yarn run dev --host
