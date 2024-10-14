@@ -78,7 +78,7 @@ Serviços do backend todos são startados via:
 mvn spring-boot:run
 ```
 
-Já o front end [task-management-front]() são iniciados via:
+Já o front end [task-management-front](https://github.com/Jordancsb/front-task-test) são iniciados via:
 
 ```
 yarn & yarn run dev --host
